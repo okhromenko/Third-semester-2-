@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dd76824-4f68-46c0-99a3-cbdb1683f4e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="identifier.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="identifier.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="identifier.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="identifier.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="sqlite_master: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="identifier.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VyPDeNaWZumr0fPdMeTw45TBWf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GUISamples.MPlayer" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="player2" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.5" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GUISamples.MPlayer" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dd76824-4f68-46c0-99a3-cbdb1683f4e1" name="Default Changelist" comment="" />
+      <created>1578222242508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578222242508</updated>
+      <workItem from="1578222246179" duration="1597000" />
+      <workItem from="1578232710768" duration="29354000" />
+      <workItem from="1578313745504" duration="45487000" />
+      <workItem from="1578703172667" duration="2198000" />
+      <workItem from="1578712006833" duration="1191000" />
+      <workItem from="1579752727017" duration="212000" />
+      <workItem from="1579859596431" duration="11819000" />
+      <workItem from="1579889792694" duration="8939000" />
+      <workItem from="1579908867930" duration="1381000" />
+      <workItem from="1579915630984" duration="2683000" />
+      <workItem from="1579920112477" duration="1806000" />
+      <workItem from="1579922220821" duration="13554000" />
+      <workItem from="1585926171492" duration="594000" />
+      <workItem from="1586167299044" duration="5362000" />
+      <workItem from="1586184892328" duration="532000" />
+      <workItem from="1586231902677" duration="741000" />
+      <workItem from="1586244096890" duration="1178000" />
+      <workItem from="1586252303677" duration="7234000" />
+      <workItem from="1586272919777" duration="3903000" />
+      <workItem from="1586334582519" duration="5214000" />
+      <workItem from="1586382290461" duration="4633000" />
+      <workItem from="1586391591834" duration="425000" />
+      <workItem from="1586398763060" duration="258000" />
+      <workItem from="1586408101622" duration="2542000" />
+      <workItem from="1586435723281" duration="2860000" />
+      <workItem from="1586479836192" duration="2440000" />
+      <workItem from="1586500629918" duration="3353000" />
+      <workItem from="1586514443547" duration="8946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586525406007">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="409" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586525406007" />
+    <state x="676" y="416" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586525492188">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="676" y="416" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586525492188" />
+    <state x="780" y="421" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585926212520">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="780" y="421" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585926212520" />
+    <state x="591" y="220" key="FileChooserDialogImpl" timestamp="1586482464895">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="591" y="220" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586482464895" />
+    <state width="1846" height="160" key="GridCell.Tab.0.bottom" timestamp="1586525533806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586525533806" />
+    <state width="1846" height="160" key="GridCell.Tab.0.center" timestamp="1586525533806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="160" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586525533806" />
+    <state width="1846" height="160" key="GridCell.Tab.0.left" timestamp="1586525533806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="160" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586525533806" />
+    <state width="1846" height="160" key="GridCell.Tab.0.right" timestamp="1586525533806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="160" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586525533806" />
+    <state x="107" y="16" width="1749" height="1064" key="SettingsEditor" timestamp="1586525507607">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="107" y="16" width="1749" height="1064" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586525507607" />
+    <state x="77" y="639" key="com.intellij.ide.util.TipDialog" timestamp="1586479831024">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="77" y="639" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586479831024" />
+    <state x="660" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585926538910">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1585926538910" />
+    <state x="316" y="222" key="new project wizard" timestamp="1586170371357">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="316" y="222" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586170371357" />
+  </component>
+</project>
